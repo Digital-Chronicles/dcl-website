@@ -13,11 +13,11 @@ export default function Choose() {
 
   const faqs = [
     {
-      question: "What services does Digital Chronicles Ltd offer?",
-      answer: "Digital Chronicles Ltd provides a range of managed ICT services, including IT infrastructure setup, school management systems development, digital literacy programs, internet infrastructure installation, and more.",
+      question: "What services does Digital Chronicles Africa offer?",
+      answer: "Digital Chronicles Africa provides a range of managed ICT services, including IT infrastructure setup, school management systems development, digital literacy programs, internet infrastructure installation, and more.",
     },
     {
-      question: "Who can benefit from Digital Chronicles Ltd services?",
+      question: "Who can benefit from Digital Chronicles Africa services?",
       answer: "We cater to large, medium, and small businesses, as well as educational institutions and organizations looking to enhance their ICT infrastructure and productivity.",
     },
     {
@@ -78,7 +78,7 @@ export default function Choose() {
                 className="text-4xl md:text-5xl font-bold text-slate-900 mb-6"
               >
                 <span className="bg-gradient-to-r from-blue-600 to-cyan-600 bg-clip-text text-transparent">
-                  Why Choose Us
+                  Why Partern  With Us
                 </span>
               </motion.h1>
 
@@ -97,7 +97,7 @@ export default function Choose() {
                 viewport={{ once: true }}
                 className="text-lg text-slate-700 leading-relaxed"
               >
-                At Digital Chronicles Ltd, we combine innovation with expertise to offer digital and smart solutions tailored to modern-day challenges. Here&rsquo;s why partnering with us is the best choice for your business:
+                At Digital Chronicles Africa, we combine innovation with expertise to offer digital and smart solutions tailored to modern-day challenges. Here&rsquo;s why partnering with us is the best choice for your business:
               </motion.p>
             </motion.div>
 
@@ -159,7 +159,7 @@ export default function Choose() {
               <div className="relative aspect-[4/5] lg:aspect-[3/4]">
                 <Image
                   src="/images/img2.jpg"
-                  alt="Why choose Digital Chronicles Ltd"
+                  alt="Why choose Digital Chronicles Africa"
                   fill
                   className="object-cover transition-transform duration-700 group-hover:scale-105"
                   quality={90}
