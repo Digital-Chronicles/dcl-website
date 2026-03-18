@@ -103,7 +103,7 @@ const Projects = () => {
             viewport={{ once: true }}
             className="text-xl md:text-2xl text-slate-700 font-light"
           >
-            Smart Solutions for Smart Cities
+            Smart Solutions for Development Challenges
           </motion.h2>
         </motion.div>
 
